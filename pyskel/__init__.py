@@ -1,3 +1,3 @@
-# pyskel
+# ejotl
 
 has_legs = False
